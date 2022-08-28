@@ -43,5 +43,7 @@ Update Department
 Custom Endpoint(Fetch Data By Name)
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/187090271-bc721380-ba59-460c-8020-ee4cca41f726.png)
-
-
+<br>
+Custom Endpoint(Fetch Data by Name as well as Ignore Case)
+<br>
+![image](https://user-images.githubusercontent.com/36573782/187090430-ead6a861-1b33-4710-8e06-0c2b5ed39914.png)
