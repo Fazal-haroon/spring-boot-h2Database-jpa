@@ -39,3 +39,9 @@ Delete Department
 Update Department
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/187089243-30fc69d5-4b6c-44ce-9119-823f180b00c7.png)
+<br>
+Custom Endpoint(Fetch Data By Name)
+<br>
+![image](https://user-images.githubusercontent.com/36573782/187090271-bc721380-ba59-460c-8020-ee4cca41f726.png)
+
+
