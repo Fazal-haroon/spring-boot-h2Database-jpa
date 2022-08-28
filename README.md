@@ -1,5 +1,5 @@
 # spring-boot-h2Database-jpa-crud-application
-Spring boot, H2 database and JPA Repository
+Spring boot, H2 database, Hibernate Validation, Loggers(in Controller), Lombok and JPA Repository
 <br>
 <br>
 For testing you can use postman client or Insomnia client
@@ -47,3 +47,12 @@ Custom Endpoint(Fetch Data By Name)
 Custom Endpoint(Fetch Data by Name as well as Ignore Case)
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/187090430-ead6a861-1b33-4710-8e06-0c2b5ed39914.png)
+<br>
+We added Hibernate Validation on Department name. here We send null
+![image](https://user-images.githubusercontent.com/36573782/187091336-37ba5054-2616-449e-9be3-fc3560bb505a.png)
+<br>
+Here we send nothing for department name
+<br>
+![image](https://user-images.githubusercontent.com/36573782/187091376-696d9139-16df-4012-a143-d9364446e901.png)
+
+
