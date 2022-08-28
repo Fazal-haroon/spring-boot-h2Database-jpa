@@ -1,4 +1,4 @@
-# spring-boot-h2Database-jpa
+# spring-boot-h2Database-jpa-crud-application
 Spring boot, H2 database and JPA Repository
 <br>
 <br>
