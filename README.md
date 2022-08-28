@@ -19,3 +19,23 @@ As shown in the screenshot attach below of Configuration file.
 H2 Console URL: http://localhost:8082/h2-console
 <br>
 ![image](https://user-images.githubusercontent.com/36573782/187084670-762869e8-dcdc-43d0-85a3-1047ae43afe1.png)
+<br>
+Create Department
+<br>
+![image](https://user-images.githubusercontent.com/36573782/187088977-ca5709ae-f77f-412f-8686-631696582230.png)
+<br>
+Fetch all Department
+<br>
+![image](https://user-images.githubusercontent.com/36573782/187088991-7f7bd38e-dfd8-42e9-94d2-bbcd19e7bbfa.png)
+<br>
+Fetch department by specific id
+<br>
+![image](https://user-images.githubusercontent.com/36573782/187088997-94c93dd8-f9cb-4f0f-a386-0feb977059dd.png)
+<br>
+Delete Department
+<br>
+![image](https://user-images.githubusercontent.com/36573782/187089006-764a9ebc-1066-4bac-b78e-62ad8d4db051.png)
+<br>
+Update Department
+<br>
+![image](https://user-images.githubusercontent.com/36573782/187089243-30fc69d5-4b6c-44ce-9119-823f180b00c7.png)
