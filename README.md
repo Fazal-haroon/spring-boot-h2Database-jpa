@@ -2,6 +2,8 @@
 Spring boot, H2 database and JPA Repository
 <br>
 <br>
+H2 Database is in-memory database. Data save Temporory not permenant saved
+<br>
 JDBC URL: jdbc:h2:mem:databaseapp
 <br>
 Username: sa
