@@ -1,5 +1,5 @@
 # spring-boot-h2Database-jpa-crud-application
-Spring boot, H2 database, Hibernate Validation, Loggers(in Controller), Lombok and JPA Repository
+Spring boot, H2 database, Hibernate Validation, Loggers(in Controller), Lombok, Exception Handling and JPA Repository
 <br>
 <br>
 For testing you can use postman client or Insomnia client
